@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haijianume.jamaika.cn/sitemap.xml
